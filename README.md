@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Burgos</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
-<img align="right" alt="Coding" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif)">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <a href="https://twitter.com/10bsjordan" target="blank"><img src="https://img.shields.io/twitter/follow/10bsjordan?logo=twitter&style=for-the-badge" alt="10bsjordan" /></a> </p>
 
