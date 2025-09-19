@@ -5,17 +5,17 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I'm currently looking for work
+- 🔭 I am currently **available** for work
 
-- 🌱 I’m currently learning **react & tailwind**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at ("updating portfolio")
 
-- 💬 Ask me about **html, css, javascript, node.js, php, laravel**
+- 💬 Ask me about **html, css, javascript, node.js, react, vue, php, laravel, postgreSQL**
 
-- 📫 How to reach me **jordanburgoss23@gmail.com**
+- 📫 Contact me: **jordanburgoss23@gmail.com**
 
-- ⚡ Fun fact **I am always willing to learn new things.**
+- ⚡ Tip: **I am always willing to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
