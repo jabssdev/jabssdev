@@ -1,32 +1,51 @@
 <h1 align="center">Hi 👋, I'm Jordan Burgos</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
-<h3 align="center">Systems Engineer at <a href="https://unitru.edu.pe/" target="blank">National university of Trujillo</a></h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small_2x/3d-website-developer-working-on-laptop-illustration-png.png">
+<h3 align="center">Systems Engineer | Full Stack Developer | PHP & JavaScript Specialist</h3>
 
-<h3 align="left">About me:</h3>
-
-- 🔭 I am currently **available** for work
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at ("updating portfolio")
-
-- 💬 Ask me about **html, css, javascript, node.js, react, vue, php, laravel, postgreSQL**
-
-- 📫 Contact me: **jordanburgoss23@gmail.com**
-
-- ⚡ Tip: **I am always willing to learn new things.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/10bsjordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10bsjordan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordan alexander burgos saveedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan alexander burgos saveedra" height="30" width="40" /></a>
-<a href="https://fb.com/jordan alexander burgos saveedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jordan alexander burgos saveedra" height="30" width="40" /></a>
-<a href="https://instagram.com/burgos6992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burgos6992" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Trujillo,%20PE-blue?style=flat-square&logo=googlemaps" alt="Location">
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-green?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/English-A2-orange?style=flat-square" alt="English">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small_2x/3d-website-developer-working-on-laptop-illustration-png.png">
 
-<h3 align="left">GitHub Analytics</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabssdev&show_icons=true&locale=en&layout=compact" alt="jabssdev" /></p>
+### 👨‍💻 About Me:
+
+- 🎓 **Systems Engineer** graduated from the **National University of Trujillo**.
+- 🚀 Specialized in building scalable web applications using **Laravel**, **React**, and **Svelte**.
+- 🛠️ Experienced in refactoring legacy systems and applying **Clean Architecture** / **SOLID** principles.
+- 🔭 Currently focused on mastering **Cloud Computing** and **Next.js**.
+- 📫 How to reach me: **jordanburgoss23@gmail.com**
+
+### 💻 My Tech Stack:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres" width="40" height="40" alt="Backend" />
+      <br>Backend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte" width="40" height="40" alt="Frontend" />
+      <br>Frontend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" width="40" height="40" alt="Tools" />
+      <br>Tools
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jabssdev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabssdev&layout=compact&theme=tokyonight&hide=html,css" alt="Langs" />
+</p>
+
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/jabssdev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jordanburgoss23@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
