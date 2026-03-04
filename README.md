@@ -17,31 +17,33 @@
 - 🔭 Currently focused on mastering **Cloud Computing** and **Next.js**.
 - 📫 How to reach me: **jordanburgoss23@gmail.com**
 
+<br>
+
 ### 💻 My Tech Stack:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres" width="40" height="40" alt="Backend" />
-      <br>Backend
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte" width="40" height="40" alt="Frontend" />
-      <br>Frontend
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" width="40" height="40" alt="Tools" />
-      <br>Tools
-    </td>
-  </tr>
-</table>
+**Backend & Database:**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgres,sqlserver" alt="Backend Stack" />
 
-### 📊 GitHub Stats:
+**Frontend:**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,astro,tailwind" alt="Frontend Stack" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jabssdev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabssdev&layout=compact&theme=tokyonight&hide=html,css" alt="Langs" />
-</p>
+**DevOps & Tools:**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" alt="Tools" />
+
+<br>
+
+### ⚡ What I'm Currently Working On:
+
+- 🚀 Building a high-performance web countdown for the upcoming Marvel movie release using **Astro, React, TypeScript, and Tailwind CSS**.
+- 🎯 Expanding my enterprise stack by mastering the **Java / Spring Boot** ecosystem and **Angular**.
+- 🧪 Deepening my knowledge in **Software Testing** to ensure robust and bug-free application lifecycles.
+- 💡 Exploring new architectural patterns to continue modernizing legacy ERP systems and improving user experience.
+- 📖 On a personal challenge to read at least 10 technical and professional development books this year.
+
+<br>
 
 ### 🤝 Connect with me:
 
